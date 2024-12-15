@@ -3,41 +3,53 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="AI-driven fitness and wellness solutions to optimize performance and enhance mental well-being.">
     <title>AI Fitness and Wellness</title>
-    <!-- Add any custom styles or links here -->
-    <link rel="stylesheet" href="styles.css">
+    <!-- Link to Reveal.js CSS for slide deck -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.1.0/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.1.0/dist/theme/solarized.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 50px;
+        }
+        h1 {
+            font-size: 3rem;
+        }
+        .link-button {
+            padding: 10px 20px;
+            margin-top: 20px;
+            background-color: #28a745;
+            color: white;
+            text-decoration: none;
+            font-size: 1.2rem;
+            border-radius: 5px;
+        }
+        .link-button:hover {
+            background-color: #218838;
+        }
+    </style>
 </head>
 <body>
-    <header>
-        <div class="container">
-            <h1>Welcome to AI Fitness and Wellness</h1>
-            <p>Your personal fitness and wellness assistant powered by AI!</p>
-        </div>
-    </header>
 
-    <section class="about">
-        <div class="container">
-            <h2>What We Offer</h2>
-            <ul>
-                <li><strong>Personalized Fitness Plans</strong> tailored just for you using AI.</li>
-                <li><strong>Performance Optimization</strong> through data-driven insights.</li>
-                <li><strong>Mind Relaxation</strong> techniques to reduce stress and enhance mental clarity.</li>
-            </ul>
-        </div>
-    </section>
+    <h1>Welcome to AI Fitness and Wellness</h1>
+    <p>Explore personalized fitness solutions powered by AI! Optimize your performance and enhance your mental well-being.</p>
+    
+    <!-- Link to the interactive slide deck -->
+    <a href="https://yourusername.github.io/ai-fitness-and-wellness/slides/index.html" class="link-button" target="_blank">
+        View Interactive Slide Deck
+    </a>
 
-    <section class="contact">
-        <div class="container">
-            <h2>Get in Touch</h2>
-            <p>Interested in collaborating or learning more? <strong><a href="mailto:your-email@example.com">Contact us</a></strong> today!</p>
-        </div>
-    </section>
-
-    <footer>
-        <div class="container">
-            <p>&copy; 2024 AI Fitness and Wellness</p>
-        </div>
-    </footer>
+    <!-- Scripts for Reveal.js (optional: if you plan to add slides directly here) -->
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.1.0/dist/reveal.min.js"></script>
+    <script>
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+            transition: 'slide'
+        });
+    </script>
 </body>
 </html>
