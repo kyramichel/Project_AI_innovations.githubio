@@ -7,8 +7,8 @@ Here, I'll explore the intersection of **Art** and **Artificial Intelligence**, 
 I plan to add more notebooks, showcasing different AI models and creative experiments in the field of **Art and AI**.
 So stay tuned for more exciting updates, as I’m continuously learning and evolving my art through new experiments and AI technologies. 
 
-You can also check out 
+You can also check out my Art collection below:
 
-### My Art collection:
+### Kyra-art.com:
 [Click here to view my artwork](https://kyra-art.com)
 
