@@ -9,6 +9,5 @@ So stay tuned for more exciting updates, as I’m continuously learning and evol
 
 You can also check out my Art collection below:
 
-### Kyra-art.com:
-[Click here to view my artwork](https://kyra-art.com)
+### [https://kyra-art.com](https://kyra-art.com)
 
