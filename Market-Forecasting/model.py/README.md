@@ -3,7 +3,7 @@
 A lightweight example of stock price forecasting using only historical closing prices. Designed as a quick-start project for demonstrating time series forecasting with machine learning.
 
 This is a simplified version. For more advanced models and market analysis, see my main repo:  
-👉 [Quantitative_finance](https://github.com/kyramichel/Quantitative-Finance-XAI)
+👉 [Quantitative_finance](https://github.com/kyramichel/Quantitative-Finance-and-XAI)
 
 ---
 
