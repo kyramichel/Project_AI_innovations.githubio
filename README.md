@@ -26,7 +26,7 @@ Hi, I'm Kyra Michel — a data-driven problem solver with experience in **Machin
 
 ## 📫 Let's Connect
 
-- **Email**: kyra.michel@protonmail.com  
+ 
 - **LinkedIn**: [linkedin.com/in/your-profile](# 👋 Welcome to My AI & Data Science Portfolio
 
 Hi, I'm [Your Name] — a data-driven problem solver with experience in **Machine Learning**, **Artificial Intelligence**, and **Data Science**, with a background in banking and finance. This space is where I showcase my most impactful and technically challenging projects, with a focus on real-world applications, clean code, and end-to-end solutions.
