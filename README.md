@@ -4,7 +4,7 @@ Hi, I'm Kyra Michel — a data-driven problem solver with experience in **Machin
 
 ---
 
-## 🧠 What I Do
+## 🧠 In this Repo:
 
 - Build scalable ML/AI models for prediction, classification, and optimization
 - Deploy full-stack ML applications using modern tools (Streamlit, FastAPI, Docker)
