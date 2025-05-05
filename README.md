@@ -15,6 +15,8 @@ Explore my project and services on my website: [Project AI Innovative Solutions]
 
 Feel free to reach out for more information or to discuss potential collaborations!
 
+
 ## ⚠️ Disclaimer
 
-Please note that this project is still in its early stages. I am currently exploring new opportunities and will be posting my resume on financial and AI research platforms soon. Your understanding and support are greatly appreciated!
+Please note that this project is still in its early stages. Your understanding and support are greatly appreciated!
+
