@@ -2,13 +2,10 @@
 
 Hi, I'm Kyra Michel — a data-driven problem solver with expertise in Data Science, Machine Learning (ML), Artificial Intelligence (AI), and generative AI. I am also a fitness enthusiast specializing in visualization techniques for self-healing.
 
+
 ## 🌐 Visit My Page
 
-Explore my project and services on my website: [Project AI Innovations](https://namegithub.io/Project_AI_innovations.githubio/)
-
-
 Explore my project and services on my website: [Project AI Innovative Solutions](https://kyramichel.github.io/Project_AI_innovations.githubio/)
-
 
 
 ## 📫 Get in Touch
